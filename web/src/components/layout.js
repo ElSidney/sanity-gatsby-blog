@@ -11,10 +11,13 @@ const Layout = ({children, onHideNav, onShowNav, showNav, siteTitle}) => (
     <footer className={styles.footer}>
       <div className={styles.footerWrapper}>
         <div className={styles.siteInfo}>
-          &copy; {new Date().getFullYear()}, Built with <a href='https://5depositcasinos.com' rel='nofollow'>Casino site</a>{' '}
+          &copy; {new Date().getFullYear()}, Built with <a href='https://5depositcasinos.com' rel='nofollow'>Casinos</a>{' '}
           &amp;
           {` `}
-          <a href='https://www.gatsbyjs.org'>Gatsby</a>
+          <a href='https://5slotscasinos.co.uk' rel='nofollow'>Slots</a>{' '}
+&amp;
+          {` `}
+          <a href='https://5bettingsites.co.uk' rel='nofollow'>Betting</a>
         </div>
       </div>
     </footer>
